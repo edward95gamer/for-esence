@@ -1,7 +1,7 @@
 # for-esence
 ads of websites
 
-# brownbear's family diner
+# brownbear's family diner https://brwbfd.netlify.app
 this turns back the chock e chese esense on your browser
 featuring: brownbear,pnkbonnie,tanjiro rotmado,nezuko rotmado
 there games and prizes
